@@ -35,8 +35,12 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yuma-Satomura&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Satomura&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuma-Satomura&theme=default" alt="GitHub Stats" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuma-Satomura&theme=default" alt="Most Commit Language" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=Yuma-Satomura&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
